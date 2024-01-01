@@ -26,3 +26,4 @@ Once the itemsets were generated, an association rule analysis was performed to 
 
 The most clear result of this analysis is that coffee is by far the most bought item, no matter what else the transaction includes. Based on the fact that customers are very likely to buy coffee when buying anything else, I would suggest the bakery upcharges coffee in order to increase their sales income. I think that customers would continue purchasing the coffee, even if it is a bit more expensive. 
 
+### View full project [here](https://github.com/catherinealeal/BreadBasketAssociationAnalysis/blob/ad5379b42e67f7f43f8552c347886e3ea269cbbc/AssociationRuleMining.ipynb)
